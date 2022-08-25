@@ -1,0 +1,12 @@
+C:\Users\pkumar\source\repos\CustomerDataForm\bin\Debug\CustomerDataForm.exe.config
+C:\Users\pkumar\source\repos\CustomerDataForm\bin\Debug\CustomerDataForm.exe
+C:\Users\pkumar\source\repos\CustomerDataForm\bin\Debug\CustomerDataForm.pdb
+C:\Users\pkumar\source\repos\CustomerDataForm\obj\Debug\CustomerDataForm.Form1.resources
+C:\Users\pkumar\source\repos\CustomerDataForm\obj\Debug\CustomerDataForm.Properties.Resources.resources
+C:\Users\pkumar\source\repos\CustomerDataForm\obj\Debug\CustomerDataForm.csproj.GenerateResource.cache
+C:\Users\pkumar\source\repos\CustomerDataForm\obj\Debug\CustomerDataForm.csproj.CoreCompileInputs.cache
+C:\Users\pkumar\source\repos\CustomerDataForm\obj\Debug\CustomerDataForm.exe
+C:\Users\pkumar\source\repos\CustomerDataForm\obj\Debug\CustomerDataForm.pdb
+C:\Users\pkumar\source\repos\CustomerDataForm\obj\Debug\CustomerDataForm.csproj.AssemblyReference.cache
+C:\Users\pkumar\source\repos\CustomerDataForm\obj\Debug\CustomerDataForm.FrmpreviewCustomer.resources
+C:\Users\pkumar\source\repos\CustomerDataForm\obj\Debug\CustomerDataForm.MDIParent1.resources
